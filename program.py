@@ -2,6 +2,7 @@ import math
 
 notInfiltrator = []
 allMembers = []
+<<<<<<< HEAD
 temp = []
 
 def findShieldMembers(sender, rec):
