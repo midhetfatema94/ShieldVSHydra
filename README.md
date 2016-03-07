@@ -9,14 +9,22 @@ Nick Fury : Tony Stark, Maria Hill, Norman Osborn
 
 Hulk : Tony Stark, HawkEye, Rogers
 
-Rogers : Thor, 
+Rogers : Thor
+
 Tony Stark: Pepper Potts, Nick Fury
+
 Agent 13 : Agent-X, Nick Fury, Hitler
+
 Thor: HawkEye, BlackWidow
-BlackWidow:Hawkeye
+
+BlackWidow: Hawkeye
+
 Maria Hill : Hulk, Rogers, Nick Fury
+
 Agent-X : Agent 13, Rogers
+
 Norman Osborn: Tony Stark, Thor
+
 
 #Sample Output
 Agent 13, Agent-X, Hitler
